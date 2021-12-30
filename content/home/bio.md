@@ -16,7 +16,7 @@ design:
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
-    color: black
+    #color: lavender
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     #image:  # Name of image in `static/media/`.
@@ -24,7 +24,7 @@ design:
     #image_size: cover
     #image_position: center
     #image_parallax: false
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_style:
   css_class: 

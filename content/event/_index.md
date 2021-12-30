@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Recent & Upcoming Walks
 cms_exclude: true
 #url: talk
 
@@ -13,4 +13,8 @@ view: 3
 header:
   caption: ""
   image: ""
+
+background:
+  color: lavender
+  
 ---
