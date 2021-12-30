@@ -41,7 +41,7 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
+  enable: false
   align: l
   show_logo: true
   show_language: false
@@ -131,7 +131,7 @@ marketing:
   google_tag_manager: ''
   google_site_verification: ''
 cms:
-  branch: main
+  branch: master
   local_backend: false
 icon:
   pack:
