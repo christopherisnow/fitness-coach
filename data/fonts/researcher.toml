@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "family=Fjalla+One&family=Merriweather&family=Roboto+Mono"
+
+# Font families
+heading_font = "Fjalla One"
+body_font = "Merriweather"
+nav_font = "Fjalla One"
+mono_font = "Roboto Mono"

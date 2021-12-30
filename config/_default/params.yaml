@@ -1,0 +1,138 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+#
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: strawberry dark
+day_night: false
+font: minimal
+font_size: M
+
+# SEO
+
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+twitter: ''
+
+# Contact
+
+email: jadi@jadicarboni.com
+phone: +43 676 651 0672
+# appointment_url: 'https://calendly.com'
+contact_links:
+    #  - icon: twitter
+    #    icon_pack: fab
+    #    name: DM Me
+    #    link: 'https://twitter.com/Twitter'
+    #  - icon: skype
+    #    icon_pack: fab
+    #    name: Skype Me
+    #    link: 'skype:echo123?call'
+    #  - icon: video
+    #    icon_pack: fas
+    #    name: Zoom Me
+    #    link: 'https://zoom.com'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: '2 Jan, 2006'
+time_format: '13:04 PM'
+address_format: en-us
+
+# Site features
+
+#require_isotope: false  # If your site uses Portfolio widget, remove this line!
+highlight: false
+highlight_languages:
+  - r
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
+  editable:
+    page: false
+    post: false
+show_related:
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
+reading_time: false
+section_pager: false
+docs_section_pager: true
+sharing: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ''
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: ''
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: ''
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: ''
+cms:
+  branch: main
+  local_backend: false
+icon:
+  pack:
+    ai: false
